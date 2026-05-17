@@ -1,16 +1,16 @@
 ## Hi there 👋
-<img src="https://readme-typing-svg.demolab.com?<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=F75C7E&width=750&lines=熵减不止+|+Defying+entropy,+ordering+the+chaos.;终局未至+|+The+final+state+is+never+reached.;静水流深+|+Deep+currents+run+in+silent+waters.;奔赴无垠+|+Surpassing+the+yesterday's+echo.;悄然迭代+|+Silent+progress+in+progress...;愿星辰指引你+|+May+the+stars+guide+you." alt="Typing SVG" />
-<!--
-**Lzffancy/Lzffancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=F75C7E&width=750&lines=熵减不止+|+Defying+entropy,+ordering+the+chaos.;终局未至+|+The+final+state+is+never+reached.;静水流深+|+Deep+currents+run+in+silent+waters.;奔赴无垠+|+Surpassing+the+yesterday's+echo.;悄然迭代+|+Silent+progress+in+progress...;愿星辰指引你+|+May+the+stars+guide+you." alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏛️ 个人思想档案馆 (The Library)
+
+我把大部分的系统思考和生活迭代，都索引在了我的个人图书馆里：
+
+👉 **[点击进入：我的专属数字图书馆 🔗](https://Lzffancy.github.io/library/#/)**
+
+```bash
+# 核心馆藏分类
+├── 🧠 系统思考与架构
+└── 📝 个人随笔与成长迭代
