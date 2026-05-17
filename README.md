@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F75C7E&width=500&lines=Building+my+digital+library...;Infinite+progress+in+progress...;99%+System+Thinking%2C+1%+Coding." alt="Typing SVG" />
 <!--
 **Lzffancy/Lzffancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
